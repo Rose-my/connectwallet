@@ -1,0 +1,197 @@
+.backIcon {
+  position: absolute;
+  top: 36px;
+  left: 24px;
+  width: 40px;
+  height: 40px;
+  object-fit: cover;
+}
+.instanceChild {
+  border-radius: var(--br-5xs);
+  background-color: var(--color-aquamarine);
+}
+.component1Inner,
+.instanceChild {
+  position: absolute;
+  height: 100%;
+  width: 100%;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  left: 0;
+}
+.connectWallet1 {
+  position: absolute;
+  top: 27.69%;
+  left: 25.57%;
+  font-weight: 600;
+}
+.component1 {
+  position: absolute;
+  top: 728px;
+  left: 21px;
+  width: 348px;
+  height: 65px;
+  font-size: var(--font-size-5xl);
+  color: var(--color-black);
+}
+.moreWallets,
+.selectYourSolana {
+  position: absolute;
+  line-height: 16.14px;
+  font-weight: 500;
+}
+.selectYourSolana {
+  top: 104px;
+  left: 30px;
+  font-size: var(--font-size-5xl);
+}
+.moreWallets {
+  top: 8px;
+  left: 42px;
+}
+.frameChild {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 31px;
+  height: 31px;
+  opacity: 0.6;
+}
+.moreWalletsParent {
+  position: absolute;
+  top: 551px;
+  left: 120px;
+  width: 152px;
+  height: 31px;
+}
+.brave {
+  position: absolute;
+  top: 112px;
+  left: 36px;
+  line-height: 16.14px;
+  font-weight: 500;
+}
+.frameItem,
+.image1Icon {
+  position: absolute;
+  top: 71px;
+  left: 19px;
+  width: 16.14px;
+  height: 16.14px;
+}
+.image1Icon {
+  top: 36px;
+  left: 32px;
+  width: 60px;
+  height: 60px;
+  object-fit: cover;
+}
+.braveParent,
+.frameIcon {
+  position: absolute;
+  overflow: hidden;
+}
+.braveParent {
+  top: 172px;
+  left: 54px;
+  border-radius: var(--br-5xs);
+  border: 1px solid var(--color-white);
+  box-sizing: border-box;
+  width: 122px;
+  height: 156px;
+}
+.frameIcon {
+  top: 36px;
+  left: 32px;
+  width: 60px;
+  height: 60px;
+}
+.trustWallet {
+  position: absolute;
+  top: 112px;
+  left: 16px;
+  line-height: 16.14px;
+  font-weight: 500;
+}
+.frameParent {
+  position: absolute;
+  top: 357px;
+  left: 55px;
+  border-radius: var(--br-5xs);
+  border: 1px solid var(--color-white);
+  box-sizing: border-box;
+  width: 122px;
+  height: 156px;
+  overflow: hidden;
+}
+.frameChild1 {
+  position: absolute;
+  top: 36px;
+  left: 32px;
+  width: 60px;
+  height: 60px;
+}
+.phantom {
+  position: absolute;
+  top: 112px;
+  left: 27px;
+  line-height: 16.14px;
+  font-weight: 500;
+}
+.frameGroup {
+  position: absolute;
+  top: 357px;
+  left: 213px;
+  border-radius: var(--br-5xs);
+  border: 1px solid var(--color-aquamarine);
+  box-sizing: border-box;
+  width: 122px;
+  height: 156px;
+  overflow: hidden;
+}
+.zelcore {
+  position: absolute;
+  top: 112px;
+  left: 32px;
+  line-height: 16.14px;
+  font-weight: 500;
+}
+.connectWalletChild,
+.frameContainer {
+  position: absolute;
+  border-radius: var(--br-5xs);
+  border: 1px solid var(--color-white);
+  box-sizing: border-box;
+}
+.frameContainer {
+  top: 173px;
+  left: 213px;
+  width: 122px;
+  height: 156px;
+  overflow: hidden;
+}
+.connectWalletChild {
+  top: 541px;
+  left: 56px;
+  width: 281px;
+  height: 51px;
+}
+.solanaPayMark {
+  position: absolute;
+  top: 97px;
+  left: 317px;
+  width: 82px;
+  height: 30px;
+}
+.connectWallet {
+  position: relative;
+  background-color: var(--color-black);
+  width: 100%;
+  height: 844px;
+  overflow: hidden;
+  text-align: left;
+  font-size: var(--font-size-mid);
+  color: var(--color-white);
+  font-family: var(--font-pretendard);
+}

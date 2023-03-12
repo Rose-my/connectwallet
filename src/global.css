@@ -1,0 +1,27 @@
+@import url("https://fonts.googleapis.com/css2?family=Pretendard:wght@400;500;600;700&display=swap");
+body {
+  margin: 0;
+  line-height: normal;
+}
+:root {
+  /* fonts */
+  --font-pretendard: Pretendard;
+
+  /* font sizes */
+  --font-size-mid: 17px;
+  --font-size-5xl: 24px;
+  --font-size-lg: 18px;
+  --font-size-xl: 20px;
+  --font-size-11xl: 30px;
+  --font-size-xs: 12px;
+
+  /* Colors */
+  --color-black: #000;
+  --color-white: #fff;
+  --color-aquamarine: #5feab8;
+  --color-gray: #8e8e8e;
+
+  /* border radiuses */
+  --br-5xs: 8px;
+  --br-31xl: 50px;
+}

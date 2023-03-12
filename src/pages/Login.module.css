@@ -1,0 +1,65 @@
+.loginChild {
+  position: absolute;
+  top: 0;
+  left: 0;
+  background-color: var(--color-black);
+  width: 390px;
+  height: 844px;
+}
+.instanceChild {
+  border-radius: var(--br-5xs);
+  background-color: var(--color-aquamarine);
+}
+.component1Inner,
+.instanceChild {
+  position: absolute;
+  height: 100%;
+  width: 100%;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  left: 0;
+}
+.connectWallet {
+  position: absolute;
+  top: 27.69%;
+  left: 25.57%;
+  font-weight: 600;
+}
+.component1,
+.theEasiestWay {
+  position: absolute;
+  top: 728px;
+  left: 21px;
+  width: 348px;
+  height: 65px;
+}
+.theEasiestWay {
+  top: 682px;
+  left: 60px;
+  font-size: var(--font-size-lg);
+  font-weight: 600;
+  color: var(--color-white);
+  display: inline-block;
+  width: 271px;
+  height: 30px;
+}
+.frameIcon {
+  position: absolute;
+  top: 342px;
+  left: 51px;
+  width: 289px;
+  height: 159px;
+  overflow: hidden;
+}
+.login {
+  position: relative;
+  background-color: var(--color-black);
+  width: 100%;
+  height: 844px;
+  overflow: hidden;
+  text-align: left;
+  font-size: var(--font-size-5xl);
+  color: var(--color-black);
+  font-family: var(--font-pretendard);
+}

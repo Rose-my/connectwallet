@@ -1,0 +1,274 @@
+.main1Child,
+.main1Inner,
+.main1Item {
+  position: absolute;
+  top: 0;
+  left: 0;
+  background-color: var(--color-black);
+  width: 390px;
+  height: 373px;
+}
+.main1Inner,
+.main1Item {
+  top: 373px;
+  background-color: var(--color-white);
+  height: 471px;
+}
+.main1Inner {
+  top: 410px;
+  left: 24px;
+  border-radius: var(--br-5xs);
+  background-color: var(--color-black);
+  box-shadow: 0 0 6px rgba(0, 0, 0, 0.25) inset;
+  width: 342px;
+  height: 138px;
+}
+.seobinWons2 {
+  font-size: var(--font-size-xl);
+}
+.span {
+  font-weight: 600;
+}
+.seobinWons {
+  margin: 0;
+}
+.nftCollection {
+  margin: 0;
+  color: var(--color-white);
+}
+.seobinWonsNftContainer {
+  position: absolute;
+  top: 482px;
+  left: 45px;
+  color: var(--color-gray);
+}
+.main1Child1,
+.rectangleDiv {
+  position: absolute;
+  top: 566px;
+  left: 250px;
+  border-radius: var(--br-5xs);
+  background-color: var(--color-white);
+  box-shadow: 0 0 8px rgba(0, 0, 0, 0.25) inset;
+  width: 116px;
+  height: 116px;
+}
+.main1Child1 {
+  top: 700px;
+}
+.ellipseIcon,
+.main1Child2 {
+  position: absolute;
+  left: 24px;
+}
+.main1Child2 {
+  top: 566px;
+  border-radius: var(--br-5xs);
+  background-color: #2d2d2d;
+  box-shadow: 0 0 8px rgba(0, 0, 0, 0.25) inset;
+  width: 208px;
+  height: 250px;
+}
+.ellipseIcon {
+  top: 105px;
+  width: 80px;
+  height: 80px;
+  object-fit: cover;
+}
+.seobinWon,
+.wonSeobin {
+  position: absolute;
+  top: 0;
+  left: 0;
+}
+.wonSeobin {
+  top: 33px;
+  font-size: 15px;
+  color: var(--color-gray);
+}
+.seobinWonParent {
+  position: absolute;
+  top: 117px;
+  left: 123px;
+  width: 158px;
+  height: 51px;
+  font-size: 28px;
+}
+.mint,
+.rdNft {
+  position: absolute;
+  top: 297px;
+  left: 338px;
+  font-size: var(--font-size-xs);
+  font-weight: 600;
+}
+.rdNft {
+  top: 298px;
+  left: 21px;
+}
+.homeIcon {
+  position: absolute;
+  top: 34px;
+  left: 24px;
+  width: 40px;
+  height: 40px;
+  overflow: hidden;
+}
+.main1Child3,
+.main1Child4 {
+  position: absolute;
+  left: 24px;
+  width: 342px;
+}
+.main1Child3 {
+  top: 316px;
+  border-radius: var(--br-31xl);
+  background-color: var(--color-white);
+  height: 18px;
+}
+.main1Child4 {
+  top: 422px;
+  border-radius: 10px;
+  background-color: #d9d9d9;
+  height: 138px;
+  display: none;
+}
+.seobinWonsNftContainer1 {
+  position: absolute;
+  top: 479px;
+  left: 45px;
+  display: none;
+  color: var(--color-gray);
+}
+.vectorIcon {
+  position: absolute;
+  height: 4.74%;
+  width: 10.26%;
+  top: 4.03%;
+  right: 6.15%;
+  bottom: 91.23%;
+  left: 83.59%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.main1Child5 {
+  position: absolute;
+  top: 210px;
+  left: 194.5px;
+  width: 1px;
+  height: 64px;
+}
+.div,
+.div1,
+.nfts,
+.tumbler {
+  position: absolute;
+  font-weight: 600;
+}
+.tumbler {
+  top: 210px;
+  left: 244px;
+  font-size: var(--font-size-lg);
+}
+.div,
+.div1,
+.nfts {
+  text-align: center;
+}
+.nfts {
+  top: 210px;
+  left: 77px;
+  font-size: var(--font-size-lg);
+  display: inline-block;
+  width: 69px;
+}
+.div,
+.div1 {
+  top: 238px;
+  left: 102px;
+  font-size: var(--font-size-11xl);
+}
+.div1 {
+  left: 262px;
+}
+.main1Child6 {
+  position: absolute;
+  top: 316px;
+  left: 24px;
+  border-radius: var(--br-31xl);
+  background: linear-gradient(90deg, #8cff91, #00e9db);
+  width: 207px;
+  height: 18px;
+}
+.main1Child7,
+.walletIcon {
+  position: absolute;
+  top: 311px;
+  left: 217px;
+  width: 28px;
+  height: 28px;
+}
+.walletIcon {
+  top: 34px;
+  left: 326px;
+  width: 40px;
+  height: 40px;
+  object-fit: cover;
+}
+.frameIcon,
+.vectorIcon1 {
+  position: absolute;
+  top: 437px;
+  left: 195px;
+  width: 154px;
+  height: 85px;
+  overflow: hidden;
+}
+.vectorIcon1 {
+  height: 4.98%;
+  width: 10.77%;
+  top: 71.45%;
+  right: 15.64%;
+  bottom: 23.58%;
+  left: 73.59%;
+  max-width: 100%;
+  max-height: 100%;
+}
+.slrCameraIcon {
+  position: absolute;
+  top: 735px;
+  left: 285px;
+  width: 46px;
+  height: 46px;
+  object-fit: cover;
+}
+.receipt {
+  margin: 0;
+  font-size: var(--font-size-5xl);
+}
+.uploadedReceipt {
+  position: absolute;
+  top: 743px;
+  left: 45px;
+  font-size: var(--font-size-xl);
+}
+.frameIcon1 {
+  position: absolute;
+  top: 609px;
+  left: 144px;
+  width: 59px;
+  height: 57px;
+  overflow: hidden;
+}
+.main1 {
+  position: relative;
+  background-color: var(--color-white);
+  width: 100%;
+  height: 844px;
+  overflow: hidden;
+  text-align: left;
+  font-size: var(--font-size-5xl);
+  color: var(--color-white);
+  font-family: var(--font-pretendard);
+}
